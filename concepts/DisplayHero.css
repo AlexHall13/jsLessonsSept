@@ -1,0 +1,42 @@
+
+
+
+/* 
+BRONZE CHALLENGE
+  Design a class component (called 'Heroes') that stores a 'superhero' array.  The object is below:
+  [
+    {name: 'Clark Kent', superPower: 'flight', age: 33},
+    {name: 'Bruce Wayne', superPower: '$', age: 41}
+  ]
+  Pass the information from this array into a component (called 'DisplayHero') that
+  displays a SINGLE hero.  'DisplayHero' will show name, superPower, and age to the page. The information 
+  must be centered. 
+
+  You only need to display one super hero with the 'DisplayHero' component.
+*/
+/*
+SILVER CHALLENGE
+  Design a class component (called 'Heroes') that stores a 'superhero' array.  The object is below:
+  [
+    {name: 'Clark Kent', superPower: 'flight', age: 33},
+    {name: 'Bruce Wayne', superPower: '$', age: 41}
+  ]
+  Pass the information from this array into a component (called 'DisplayHero') that
+  displays a SINGLE hero.  'DisplayHero' will format the name, superPower, and age in 
+  its own table.  The table and information inside each table need to be centered.
+  
+  Make sure both heroes are displayed on screen at the same time (two tables should be visible).  
+*/
+/*
+GOLD CHALLENGE
+  Design a class component (called 'Heroes') that stores a 'superhero' array.  The object is below:
+  [
+    {name: 'Clark Kent', superPower: 'flight', age: 33},
+    {name: 'Bruce Wayne', superPower: '$', age: 41}
+  ]
+  Pass the information from this array into a component (called 'DisplayHero') that
+  displays a SINGLE hero.  'DisplayHero' will format the name, superPower, and age in 
+  its own table.  The table and information inside each table need to be centered.
+  
+  The 'DisplayHero' component needs to have a button that toggles between Batman and Superman
+*/
